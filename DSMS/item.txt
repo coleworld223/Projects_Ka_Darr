@@ -1,0 +1,6 @@
+ 2 anuj anand 2
+ 1 aman sharma 2
+ 1 1 aman 0
+ 1 1 aman 0
+ 1 1 aman 0
+ 1 1 1 1
